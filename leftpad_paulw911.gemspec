@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{leftpad_paulw911 gem - based on DriftingRuby tutorial.}
   spec.description   = %q{leftpad_paulw911 gem - this is purely a personal test gem.}
-  spec.homepage      = "my git repo needs to go here."
+  spec.homepage      = "https://github.com/paulw911/leftpad_paulw911"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
